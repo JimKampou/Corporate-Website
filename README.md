@@ -1,1 +1,1 @@
-# Corporate_LandingPage
+# Created a landing page for a hypothetical tech company, using JavaScript, JQuery, HTML5, CSS and Bootstrap library.
